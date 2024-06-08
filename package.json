@@ -1,6 +1,6 @@
 {
   "name": "@tbmc/opencv-js",
-  "version": "4.9.0-release.3",
+  "version": "4.9.0-release.3-custom1",
   "description": "OpenCV JavaScript version for node.js or browser",
   "main": "dist/opencv.js",
   "types": "dist/src/index.d.ts",
